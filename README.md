@@ -1,6 +1,6 @@
 # Tufts-Labor-Lab
 
-During my time at the Tufts Labor Lab, I worked on numerous reports to present to relevant stakeholders such as the International Labor Organization (ILO), the International Finance Corporation (IFC), and the Walmart Foundation's Women's Economic Empowerment Program. While I am not able to share the code that I used for my data analysis, the data and reports are publicly available at https://sites.tufts.edu/laborlab/.
+During my time at the Tufts Labor Lab, I worked on numerous reports to present to relevant stakeholders such as the International Labor Organization (ILO), the International Finance Corporation (IFC), and the Walmart Foundation's Women's Economic Empowerment Program. While I am not able to share the code that I used for my data analysis, the data and reports are publicly available at https://sites.tufts.edu/laborlab/projects/empowering-workplaces/.
 
 Please see below for the reports for which I was the head author during my time working at the Labor Lab.
 
